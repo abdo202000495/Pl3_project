@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "s0NMTzXh54w=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\almanar\\source\\repos\\Pl3_project\\Pl3_project\\Pl3_project.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\almanar\\.nuget\\packages\\fsharp.core\\9.0.100\\fsharp.core.9.0.100.nupkg.sha512"
+  ],
+  "logs": []
+}
