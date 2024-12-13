@@ -1,0 +1,51 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\almanar\\source\\repos\\Pl3_project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3DB5C4FA-003C-4BAE-9697-9B41CDEBDB14}|Pl3_project\\Pl3_project.fsproj|c:\\users\\almanar\\source\\repos\\pl3_project\\pl3_project\\program.fs||{8A5AA6CF-46E3-4520-A70A-7393D15233E9}",
+      "RelativeMoniker": "D:0:0:{3DB5C4FA-003C-4BAE-9697-9B41CDEBDB14}|Pl3_project\\Pl3_project.fsproj|solutionrelative:pl3_project\\program.fs||{8A5AA6CF-46E3-4520-A70A-7393D15233E9}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 300,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.fs",
+              "DocumentMoniker": "C:\\Users\\almanar\\source\\repos\\Pl3_project\\Pl3_project\\Program.fs",
+              "RelativeDocumentMoniker": "Pl3_project\\Program.fs",
+              "ToolTip": "C:\\Users\\almanar\\source\\repos\\Pl3_project\\Pl3_project\\Program.fs",
+              "RelativeToolTip": "Pl3_project\\Program.fs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-12-13T06:48:16.975Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 100,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
